@@ -40,7 +40,7 @@ Agora o app tem **8 telas** navegáveis de verdade, com `NavHost`, `BottomNaviga
 | 8 | **Acompanhar pedido** | Linha do tempo com botão que simula as etapas de entrega | Dá função real ao botão "Acompanhar prisão do pedido" |
 
 > 📸 |  <img src="prints/entrega.png" width="220"> | <img src="prints/pedidoconfirmado.png" width="220"> | <img src="prints/carrinho.png" width="220"> |
->     | <img src="prints/categoriadetalhes.png" width="220"> | <img src="prints/categorias.png" width="220"> | <img src="prints/novoproduto.png" width="220"> |
+>     | <img src="prints/categoriadetalhes.png" width="220"> | <img src="prints/categorias.png" width="220"> | <img src="prints/produtonovo.png" width="220"> |
 >     | <img src="prints/detalhesp.png" width="220"> | <img src="prints/telaprodutos.png" width="220"> |
   
 
