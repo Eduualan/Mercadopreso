@@ -4,6 +4,8 @@ App Android em Kotlin + Jetpack Compose: um marketplace paródia com tema de pri
 
 **Integrantes:** Eduardo Alan, Francisco Caninde
 
+LINK PARA YOUTUBE https://www.youtube.com/watch?v=ZLuQORpskCM
+
 ## Como rodar
 
 1. Abra a pasta do projeto no Android Studio.
